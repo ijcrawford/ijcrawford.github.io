@@ -1,4 +1,4 @@
 name: ijcrawford-site
 title: null
 plugins:
-  -jemoji
+  - jemoji
